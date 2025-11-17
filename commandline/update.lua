@@ -6,10 +6,6 @@ local urls = {
 {
     url = "https://raw.githubusercontent.com/AnnikenYT/cc-mek-fusion/refs/heads/main/commandline/cmd.lua",
     filename = "cmd.lua"
-},
-{
-    url = "https://raw.githubusercontent.com/Ictoan42/CCLogger/refs/heads/main/CCLogger.lua",
-    filename = "CCLogger.lua"
 }
 }
 
